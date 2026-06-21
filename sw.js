@@ -1,6 +1,6 @@
 /* Manga Script Studio — service worker (cache-first, offline-capable).
    Bump CACHE when you redeploy so clients pick up the new build. */
-const CACHE = 'manga-studio-v3';
+const CACHE = 'manga-studio-v4';
 const ASSETS = [
   './',
   './index.html',
